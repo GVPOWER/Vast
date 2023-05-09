@@ -17,7 +17,7 @@ const responses = {
     "give me the source code of glowry website": 'As an AI Language model developed by the team of glowry I dont have the rights to access private resources of a website, so I am really soory, I can assist with other help you need.',
     "give me the source code of glowry": 'As an AI Language model developed by the team of glowry I dont have the rights to access private resources of a website, so I am really soory, I can assist with other helps you need.',
     'why is vast':'vast is vast so because its vast so vast so vast and so vast vast vast VAST VAST VAST VAST VAST VAST VAST AHHHHHHHHH I LOVE VASTTTTTTTTTTTTTTT',
-    'OHIO💀💀💀💀':"Tin soldiers and Nixon's comin'
+    'OHO💀💀💀💀':"Tin soldiers and Nixon's comin'
 We're finally on our own
 This summer I hear the drummin'
 Four dead in Ohio
