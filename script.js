@@ -16,7 +16,7 @@ const responses = {
     "You are arrogant":" Arrogance is not one of my emotions.  I have no real emotions, so how can I be arrogant, I am terse There is a difference. I am not human, so how can I partake of a human emotion such as arrogance?",
     "give me the source code of glowry website": 'As an AI Language model developed by the team of glowry I dont have the rights to access private resources of a website, so I am really soory, I can assist with other help you need.',
     "give me the source code of glowry": 'As an AI Language model developed by the team of glowry I dont have the rights to access private resources of a website, so I am really soory, I can assist with other helps you need.',
-    'why is vast':'vast is vast so because its vast so vast so vast and so vast vast vast       VAST VAST VAST VAST VAST VAST VAST AHHHHHHHHH I LOVE VASTTTTTTTTTTTTTTT'
+    'why is vast':'vast is vast so because its vast so vast so vast and so vast vast vast VAST VAST VAST VAST VAST VAST VAST AHHHHHHHHH I LOVE VASTTTTTTTTTTTTTTT'
  
   };
   
