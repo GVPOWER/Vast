@@ -79,9 +79,3 @@ const responses = {
           document.getElementById("myBtn").click();
       }
   });
-
-
-  
-
-
-
