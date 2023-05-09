@@ -79,3 +79,53 @@ const responses = {
           document.getElementById("myBtn").click();
       }
   });
+// Assuming you have a feedback button with the id "feedback-button"
+
+var feedbackButton = document.getElementById('feedback-button');
+
+// Function to handle feedback submission
+
+function handleFeedback() {
+
+  var feedback = prompt('Please provide your feedback:');
+
+  if (feedback) {
+
+    // Send the feedback to the server for processing
+
+    fetch('/submit_feedback', {
+
+      method: 'POST',
+
+      headers: {
+
+        'Content-Type': 'application/json',
+
+      },
+
+      body: JSON.stringify({ feedback: feedback }),
+
+    })
+
+      .then(function (response) {
+
+        // Process the feedback submission response
+
+        console.log('Feedback submitted successfully');
+
+      })
+
+      .catch(function (error) {
+
+        console.error('Error:', error);
+
+      });
+
+  }
+
+}
+
+// Attach event handler to the feedback button
+
+feedbackButton.addEventListener('click', handleFeedback);
+
