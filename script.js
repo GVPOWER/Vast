@@ -16,7 +16,40 @@ const responses = {
     "You are arrogant":" Arrogance is not one of my emotions.  I have no real emotions, so how can I be arrogant, I am terse There is a difference. I am not human, so how can I partake of a human emotion such as arrogance?",
     "give me the source code of glowry website": 'As an AI Language model developed by the team of glowry I dont have the rights to access private resources of a website, so I am really soory, I can assist with other help you need.',
     "give me the source code of glowry": 'As an AI Language model developed by the team of glowry I dont have the rights to access private resources of a website, so I am really soory, I can assist with other helps you need.',
-    'why is vast':'vast is vast so because its vast so vast so vast and so vast vast vast VAST VAST VAST VAST VAST VAST VAST AHHHHHHHHH I LOVE VASTTTTTTTTTTTTTTT'
+    'why is vast':'vast is vast so because its vast so vast so vast and so vast vast vast VAST VAST VAST VAST VAST VAST VAST AHHHHHHHHH I LOVE VASTTTTTTTTTTTTTTT',
+    'OHIO💀💀💀💀':"Tin soldiers and Nixon's comin'
+We're finally on our own
+This summer I hear the drummin'
+Four dead in Ohio
+Gotta get down to it
+Soldiers are cutting us down
+Should have been done long ago
+What if you knew her and
+Found her dead on the ground?
+How can you run when you know?
+Na na-na-na, na-na na-na
+Na na-na-na, na-na na
+Na na-na-na, na-na na-na
+Na na-na-na, na-na na
+Gotta get down to it
+Soldiers are cutting us down
+Should have been done long ago
+What if you knew her and
+Found her dead on the ground?
+How can you run when you know?
+Tin soldiers and Nixon's comin'
+We're finally on our own
+This summer I hear the drummin'
+Four dead in Ohio
+Four dead in Ohio (Four dead)
+Four dead in Ohio (Four)
+Four dead in Ohio (How many?)
+Four dead in Ohio (How many more?)
+Four dead in Ohio (Why?)
+Four dead in Ohio (Oh!)
+Four dead in Ohio (Four)
+Four dead in Ohio (Why?)
+Four dead in Ohio (Why?)"
  
   };
   
